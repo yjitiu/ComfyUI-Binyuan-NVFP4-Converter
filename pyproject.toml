@@ -1,0 +1,17 @@
+[project]
+name = "binyuan-nvfp4-converter"
+description = "ComfyUI custom node - universal model quantizer. Converts diffusion models (safetensors) to NVFP4 / FP8 (e4m3fn) / GGUF in place, with a per-architecture blacklist that protects structure-sensitive layers so the result loads and renders correctly. Auto (Universal) mode works on any architecture."
+version = "1.0.0"
+requires-python = ">= 3.9"
+dependencies = []
+license = "MIT"
+
+[project.urls]
+Repository = "https://github.com/yjitiu/ComfyUI-Binyuan-NVFP4-Converter"
+Documentation = "https://github.com/yjitiu/ComfyUI-Binyuan-NVFP4-Converter#readme"
+Issues = "https://github.com/yjitiu/ComfyUI-Binyuan-NVFP4-Converter/issues"
+
+[tool.comfy]
+PublisherId = "yjitiu"
+DisplayName = "Binyuan NVFP4 Converter"
+Icon = ""
