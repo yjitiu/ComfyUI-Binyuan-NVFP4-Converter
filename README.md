@@ -56,6 +56,9 @@
 
 ### 输出
 - `status` (STRING)：转换结果/错误信息。
+<img width="1052" height="884" alt="屏幕截图 2026-07-01 115521" src="https://github.com/user-attachments/assets/bbe8906f-5a71-4c33-a9b4-c46272af2784" />
+<img width="1029" height="740" alt="屏幕截图 2026-07-01 115516" src="https://github.com/user-attachments/assets/4f6fd4aa-0117-4a07-97bd-9c7f627fabf5" />
+<img width="1012" height="692" alt="屏幕截图 2026-07-01 115510" src="https://github.com/user-attachments/assets/03a99f75-543f-4851-ad17-01179bbbcb9e" />
 
 ---
 
